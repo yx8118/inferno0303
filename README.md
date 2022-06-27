@@ -1,3 +1,5 @@
+## 👋👋 Hi there
+
 ### Full stack software developer
 
 #### My programming language
@@ -8,7 +10,7 @@ Java, JavaScript, Python, C++, Kotlin
 
 SpringBoot, React, Vue, Flask, OpenCV, Qt, Electron, Android, Docker, K8s
 
-[![Hi there👋👋](https://github-readme-stats.vercel.app/api?username=inferno0303)]
+![Hi there👋👋](https://github-readme-stats.vercel.app/api?username=inferno0303)
 
 ### 计算机、电子信息类 毕设课设助攻 👋
 
