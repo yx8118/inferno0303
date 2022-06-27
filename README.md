@@ -2,7 +2,7 @@
 
 ### I am a full stack software engineer
 
-Graduated from Electronic Engineering, GUET
+Graduated from EE/EI, GUET
 
 #### Programming language
 
