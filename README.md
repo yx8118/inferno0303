@@ -1,17 +1,21 @@
 ## 👋👋 Hi there
 
-### Full stack software developer
+### I am a full stack software engineer
 
-#### My programming language
+Graduated from Electronic Engineering, GUET
+
+#### Programming language
 
 Java, JavaScript, Python, C++, Kotlin
 
-#### My Programming framework
+#### Programming framework
 
 SpringBoot, React, Vue, Flask, OpenCV, Qt, Electron, Android, Docker, K8s
 
+#### My Github
+
 ![Hi there👋👋](https://github-readme-stats.vercel.app/api?username=inferno0303)
 
-### 计算机、电子信息类 毕设课设助攻 👋
+### 计算机，电子信息类 毕设课设助攻
 
-发邮件: inferno33@qq.com
+请发邮件：*inferno33@qq.com*
