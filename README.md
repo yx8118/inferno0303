@@ -12,9 +12,11 @@ Java, JavaScript, Python, C++, Kotlin
 
 SpringBoot, React, Vue, Flask, OpenCV, Qt, Electron, Android, Docker, K8s
 
-#### My Github
-
 ![Hi there👋👋](https://github-readme-stats.vercel.app/api?username=inferno0303)
+
+#### Bolg
+
+https://inferno0303.github.io
 
 ### 计算机，电子信息类 毕设课设助攻
 
