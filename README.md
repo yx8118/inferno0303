@@ -1,10 +1,10 @@
 ## 👋👋 Hi there
 
-### I am a full stack software engineer
+### Full stack software developer, CS postgraduate student
 
 #### Programming language
 
-Java, JavaScript, Python, C++, Kotlin
+Java, JavaScript, Python, C/C++
 
 #### Programming framework
 
@@ -12,6 +12,6 @@ SpringBoot, React, Vue, Flask, OpenCV, Qt, Electron, Android, Docker, K8s
 
 ![Hi there👋👋](https://github-readme-stats.vercel.app/api?username=inferno0303)
 
-#### 技术分享博客
+#### My Blog
 
-访问我的博客：https://inferno0303.github.io
+link：https://inferno0303.github.io
