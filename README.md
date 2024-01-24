@@ -1,17 +1,19 @@
-## 👋👋 Hi there
+## 👋👋 Hi there，你好！
 
-### Full stack software developer, CS postgraduate student
+### 全栈工程师，CS研究生
 
-#### Programming language
+#### 编程工具
 
-Java, JavaScript, Python, C/C++
+C/C++, Java, JavaScript, Python
 
-#### Programming framework
+#### 编程框架
 
 SpringBoot, React, Vue, Flask, OpenCV, Qt, Electron, Android, Docker, K8s
 
+#### 在开源社区的贡献
+
 ![Hi there👋👋](https://github-readme-stats.vercel.app/api?username=inferno0303)
 
-#### My Blog
+#### 我的主页
 
 link：https://inferno0303.github.io
